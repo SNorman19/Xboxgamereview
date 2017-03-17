@@ -1,6 +1,6 @@
-#Xbox Gamae Review#
+#Xbox Gamae Review
 
-##college project##
+##college project
 
 
 This website has been created to talk about the consoles and i will give a review on how good i think the game is.
