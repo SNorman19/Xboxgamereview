@@ -1,4 +1,4 @@
-#Xbox Gamae Review
+#Xbox Game Review
 
 ##college project
 
@@ -12,6 +12,7 @@ This website has been created to talk about the consoles and i will give a revie
 3.Thirdly is the consoles which is were I rate different games I've played and users can go on the different xobox consoles to see my ratings.
 
 Thank you and good luck
+
 Scott Norman
 
 
