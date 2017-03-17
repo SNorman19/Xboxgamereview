@@ -1,6 +1,6 @@
-#Xbox Game Review
+#H1 Xbox Game Review
 
-##college project
+##H2 college project
 
 
 This website has been created to talk about the consoles and i will give a review on how good i think the game is it contains a number of links to give users a way around the site such as the navbar,breadcrumbs,dropdown and my logo is linked my site also includes diferent video's about the xbox consoles my site, also includes a link to my twitter page and a animation to my logo.
