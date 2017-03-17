@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Xbox Gamae Review#
 
 ##college project##
