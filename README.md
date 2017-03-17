@@ -1,12 +1,8 @@
 <<<<<<< HEAD
-#Xbox Gamae Review
-
-##college project
-=======
 #Xbox Gamae Review#
 
 ##college project##
->>>>>>> aed9ad077321d513f27cfa0c9f7ecad3c55c9e90
+
 
 This website has been created to talk about the consoles and i will give a review on how good i think the game is.
 
